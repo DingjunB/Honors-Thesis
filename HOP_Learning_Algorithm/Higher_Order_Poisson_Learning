@@ -1,0 +1,3 @@
+We write the HOP learning algorithm in a graphlearning convention.
+
+To run the HOP learning algorithm, simply run the ssl_trials.py file.
